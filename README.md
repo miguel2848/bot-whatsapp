@@ -112,7 +112,9 @@ SQL_USER=
 SQL_PASS=
 SQL_DATABASE=
 ```
-
+__Instalar libreria de Whatsapp__
+> Ubicate en le directorio que descargaste y via consola o terminal ejecuta el siguiente comando
+`npm i whatsapp-web.js`
 ![](https://i.imgur.com/9poNnW0.png)
 
 __Ejecutar el script__
